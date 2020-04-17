@@ -8,7 +8,7 @@ void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
     title: 'Map App',
-    home: Scaffold(appBar: new AppBar(title: new Text('Leaflet Flutter Demo HVL OSM Turkey offline tiles + Zoom Buttons'),),body: Stack(children: <Widget>[
+    home: Scaffold(appBar: new AppBar(title: new Text('Leaflet Flutter Demo HVL OSM Turkey offline tile + Zoom Buttons'),),body: Stack(children: <Widget>[
       new FlutterMap(
         options: MapOptions(
           center: LatLng(
