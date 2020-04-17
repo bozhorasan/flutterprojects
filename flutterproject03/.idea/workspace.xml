@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31efb5ee-6cc2-4fe3-9656-ab35ddac7840" name="Default Changelist" comment="D-46 LEAFLET Offline Harita Desteği 1M Harita + Zoom Özelliği eklenmesi">
+      <change beforePath="$PROJECT_DIR$/../flutter_map" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutterproject01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flutterproject01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/assets/h1m2.mbtiles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/lib/wms_tile_layer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leafletmapflutter" beforeDir="false" afterPath="$PROJECT_DIR$/../leafletmapflutter" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_29_x86" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1a7e6t0lJHxP8lmNZ1rp1HmEtQQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/flutter_app/lib" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\source\flutterproject03\flutter_app\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flutter.main1m2Zoom">
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1m" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_app/lib/main1m.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1m2Zoom" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_app/lib/main1m2Zoom.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1mZoom" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_app/lib/main1mZoom.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainBerlin" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_app/lib/mainBerlin.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainOSMWithMarkers" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_app/lib/mainOSMWithMarkers.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainwmslayer" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_app/lib/mainwmslayer.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.main" />
+      <item itemvalue="Flutter.mainOSMWithMarkers" />
+      <item itemvalue="Flutter.mainBerlin" />
+      <item itemvalue="Flutter.main1m" />
+      <item itemvalue="Flutter.main1mZoom" />
+      <item itemvalue="Flutter.main1m2Zoom" />
+      <item itemvalue="Flutter.mainwmslayer" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31efb5ee-6cc2-4fe3-9656-ab35ddac7840" name="Default Changelist" comment="" />
+      <created>1586090887722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586090887722</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Title of app changed">
+      <created>1586168034985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586168034985</updated>
+    </task>
+    <task id="LOCAL-00002" summary="D-46 LEAFLET Offline Harita Desteği 1M Harita + Zoom Özelliği eklenmesi">
+      <created>1586317835527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586317835527</updated>
+    </task>
+    <task id="LOCAL-00003" summary="D-46 LEAFLET Offline Harita Desteği 1M Harita + Zoom Özelliği eklenmesi">
+      <created>1586840774079</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586840774079</updated>
+    </task>
+    <task id="LOCAL-00004" summary="D-46 LEAFLET Offline Harita Desteği 1M Harita + Zoom Özelliği eklenmesi">
+      <created>1586840787542</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586840787542</updated>
+    </task>
+    <task id="LOCAL-00005" summary="D-46 LEAFLET Offline Harita Desteği 1M Harita + Zoom Özelliği eklenmesi">
+      <created>1586840799714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586840799714</updated>
+    </task>
+    <task id="LOCAL-00006" summary="D-46 LEAFLET Offline Harita Desteği 1M Harita + Zoom Özelliği eklenmesi">
+      <created>1586840812840</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586840812840</updated>
+    </task>
+    <task id="LOCAL-00007" summary="D-46 LEAFLET Offline Harita Desteği 1M Harita + Zoom Özelliği eklenmesi">
+      <created>1586840819746</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586840819746</updated>
+    </task>
+    <task id="LOCAL-00008" summary="D-46 LEAFLET Offline Harita Desteği 1M Harita + Zoom Özelliği eklenmesi">
+      <created>1586952879858</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586952879858</updated>
+    </task>
+    <task id="LOCAL-00009" summary="D-50 LEAFLET Offline Harita Desteği Örnek 1M Dosyası kullanılarak daha büyük ölçekli mbtiles üretilmesi">
+      <created>1587113873308</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587113873308</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Title of app changed" />
+    <MESSAGE value="D-46 LEAFLET Offline Harita Desteği 1M Harita + Zoom Özelliği eklenmesi" />
+    <MESSAGE value="D-50 LEAFLET Offline Harita Desteği Örnek 1M Dosyası kullanılarak daha büyük ölçekli mbtiles üretilmesi" />
+    <option name="LAST_COMMIT_MESSAGE" value="D-50 LEAFLET Offline Harita Desteği Örnek 1M Dosyası kullanılarak daha büyük ölçekli mbtiles üretilmesi" />
+  </component>
+</project>
