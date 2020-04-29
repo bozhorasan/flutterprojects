@@ -13,11 +13,11 @@ void main() {
         options: MapOptions(
           center: LatLng(
             38.85,
-            33.44,
+            33.74,
           ),
-          minZoom: 5.0,
+          minZoom: 6.0,
           maxZoom: 12.0,
-          zoom: 5.0,//
+          zoom: 6.0,//
           swPanBoundary: LatLng(35.5,25.0),
           nePanBoundary: LatLng(42.5,42.0),
           plugins: [
@@ -28,15 +28,15 @@ void main() {
           TileLayerOptions(
               tileProvider: MBTilesImageProvider.fromAsset(
                   'assets/h1m2.mbtiles'),
-              maxZoom: 13.0,
+              maxZoom: 12.0,
               backgroundColor: Colors.white,
               tms: true),
           ZoomButtonsPluginOption(
-              minZoom: 4,
-              maxZoom: 19,
-              mini: false,
+              minZoom: 6,
+              maxZoom: 12,
+              mini: true,
               padding: 10,
-              alignment: Alignment.bottomRight)
+              alignment: Alignment.topRight)
         ],
       )
     ],),),

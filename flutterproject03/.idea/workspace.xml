@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31efb5ee-6cc2-4fe3-9656-ab35ddac7840" name="Default Changelist" comment="D-46 LEAFLET Offline Harita Desteği 1M Harita + Zoom Özelliği eklenmesi">
-      <change beforePath="$PROJECT_DIR$/../flutter_map" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_app/lib/FileUtils.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_app/lib/downloadFileExample.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_app/lib/mapConstants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_app/lib/readFileExample.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutterproject01/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../flutterproject01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flutterproject01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutterproject01/flutter_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../flutterproject01/flutter_app/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_app/assets/h1m2.mbtiles" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_app/lib/wms_tile_layer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_app/lib/main1m2Zoom.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/lib/main1m2Zoom.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_app/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leafletmapflutter" beforeDir="false" afterPath="$PROJECT_DIR$/../leafletmapflutter" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +22,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_29_x86" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_7_API_R" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -26,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/flutter_app/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flutterproject02/flutter_app2/lib/db_test.dart" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
